@@ -5,7 +5,7 @@ The project created with the objective of creating an autonomous lawnmower. Actu
 
 ## Phase 1: Autonomous RC car
 
-- monocular/inertial Naviation
+- monocular/inertial Navigation 
   
 
 ## Phase 2: Autonomous Lawnmower
